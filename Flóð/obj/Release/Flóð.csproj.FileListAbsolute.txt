@@ -1,0 +1,33 @@
+C:\Jakup\Flóð\Flóð\bin\Release\Flóð.exe
+C:\Jakup\Flóð\Flóð\bin\Release\Flóð.exe.config
+C:\Jakup\Flóð\Flóð\bin\Release\Flóð.exe.manifest
+C:\Jakup\Flóð\Flóð\bin\Release\Flóð.application
+C:\Jakup\Flóð\Flóð\bin\Release\Flóð.pdb
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.csproj.ResolveComReference.cache
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.Flóð.resources
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.Properties.Resources.resources
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.csproj.GenerateResource.Cache
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.exe.manifest
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.application
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.exe
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.pdb
+C:\Jakup\Flóð\Flóð\obj\Release\Flóð.csprojResolveAssemblyReference.cache
+C:\Jakup\Flóð - Copy\Flóð\bin\Release\Flóð.exe.config
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.csproj.ResolveComReference.cache
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.exe
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.pdb
+C:\Jakup\Flóð - Copy\Flóð\bin\Release\Flóð.exe.manifest
+C:\Jakup\Flóð - Copy\Flóð\bin\Release\Flóð.application
+C:\Jakup\Flóð - Copy\Flóð\bin\Release\Flóð.exe
+C:\Jakup\Flóð - Copy\Flóð\bin\Release\Flóð.pdb
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.csprojResolveAssemblyReference.cache
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.Flóð.resources
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.Properties.Resources.resources
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.csproj.GenerateResource.Cache
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.exe.manifest
+C:\Jakup\Flóð - Copy\Flóð\obj\Release\Flóð.application
+C:\OneDrive\Jakup\Forrit\Flóð\Flóð\bin\Release\Flóð.exe.config
+C:\OneDrive\Jakup\Forrit\Flóð\Flóð\obj\Release\Flóð.csproj.ResolveComReference.cache
+C:\OneDrive\Jakup\Forrit\Flóð\Flóð\obj\Release\Flóð.exe
+C:\OneDrive\Jakup\Forrit\Flóð\Flóð\obj\Release\Flóð.pdb
+C:\OneDrive\Jakup\Forrit\Flóð\Flóð\obj\Release\Flóð.csprojResolveAssemblyReference.cache
